@@ -102,5 +102,4 @@ Interesting files in this repository include:
 * 'specs/' - OpenCL specification documents.
 
 
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
